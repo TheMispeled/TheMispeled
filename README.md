@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheMispeled
 - 👀 I’m interested in Video games
-- 🌱 I’m currently learning nothing but i want to learn about the c family
+- 🌱 I’m currently learning nothing but i want to learn about the c family and python
 - 💞️ I’m looking to collaborate on issues
 - 📫 How to reach me i dont have any way to contact me
 
